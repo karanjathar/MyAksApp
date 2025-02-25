@@ -1,0 +1,6 @@
+@MyAksApp_HostAddress = http://localhost:5291
+
+GET {{MyAksApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
