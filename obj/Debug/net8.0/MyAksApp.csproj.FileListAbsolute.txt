@@ -31,3 +31,4 @@ D:\Angular\MyAksApp\MyAksApp\obj\Debug\net8.0\refint\MyAksApp.dll
 D:\Angular\MyAksApp\MyAksApp\obj\Debug\net8.0\MyAksApp.pdb
 D:\Angular\MyAksApp\MyAksApp\obj\Debug\net8.0\MyAksApp.genruntimeconfig.cache
 D:\Angular\MyAksApp\MyAksApp\obj\Debug\net8.0\ref\MyAksApp.dll
+D:\Angular\MyAksApp\MyAksApp\obj\Debug\net8.0\MyAksApp.sourcelink.json
